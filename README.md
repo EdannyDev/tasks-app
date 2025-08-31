@@ -10,11 +10,11 @@ El sistema permite a los usuarios:
 Este proyecto es ideal como base para **aplicaciones de productividad**, **flujos de trabajo simples** o como ejemplo práctico de integración **Laravel + Vite + Tailwind CSS**.  
 
 ## 🛠️Tecnologías utilizadas  
-- **PHP (Laravel 11)** – Framework backend MVC.  
-- **MySQL** – Base de datos relacional.  
-- **Tailwind CSS** – Estilos modernos y responsivos.  
-- **Vite** – Bundler rápido para frontend y assets.  
-- **XAMPP** – Servidor local (Apache + MySQL + PHP).  
+- **Backend: PHP (Laravel 11)** – Framework backend MVC.  
+- **Base de datos: MySQL** – Base de datos relacional.  
+- **Estilos: Tailwind CSS** – Estilos modernos y responsivos.  
+- **Frontend: Vite** – Bundler rápido para frontend y assets.  
+- **Servidor local: XAMPP** – (Apache + MySQL + PHP).  
 
 ## ⚙️Instalación y ejecución  
 
